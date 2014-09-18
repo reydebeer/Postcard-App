@@ -13,6 +13,8 @@
 		F307514719C9ECCE004CDA55 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F307514619C9ECCE004CDA55 /* Images.xcassets */; };
 		F307514A19C9ECCE004CDA55 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F307514819C9ECCE004CDA55 /* LaunchScreen.xib */; };
 		F307515619C9ECCE004CDA55 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F307515519C9ECCE004CDA55 /* PostcardTests.swift */; };
+		F307516019C9ED27004CDA55 /* san_francisco_3-wallpaper-2880x1800.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F307515F19C9ED27004CDA55 /* san_francisco_3-wallpaper-2880x1800.jpg */; };
+		F307516219C9F057004CDA55 /* pennybacker_bridge_austin-2880x1800.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F307516119C9F057004CDA55 /* pennybacker_bridge_austin-2880x1800.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		F307514F19C9ECCE004CDA55 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F307515419C9ECCE004CDA55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F307515519C9ECCE004CDA55 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		F307515F19C9ED27004CDA55 /* san_francisco_3-wallpaper-2880x1800.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "san_francisco_3-wallpaper-2880x1800.jpg"; sourceTree = "<group>"; };
+		F307516119C9F057004CDA55 /* pennybacker_bridge_austin-2880x1800.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "pennybacker_bridge_austin-2880x1800.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		F307513D19C9ECCE004CDA55 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F307516119C9F057004CDA55 /* pennybacker_bridge_austin-2880x1800.jpg */,
+				F307515F19C9ED27004CDA55 /* san_francisco_3-wallpaper-2880x1800.jpg */,
 				F307513E19C9ECCE004CDA55 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,6 +200,8 @@
 			files = (
 				F307514519C9ECCE004CDA55 /* Main.storyboard in Resources */,
 				F307514A19C9ECCE004CDA55 /* LaunchScreen.xib in Resources */,
+				F307516019C9ED27004CDA55 /* san_francisco_3-wallpaper-2880x1800.jpg in Resources */,
+				F307516219C9F057004CDA55 /* pennybacker_bridge_austin-2880x1800.jpg in Resources */,
 				F307514719C9ECCE004CDA55 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
